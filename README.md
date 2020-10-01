@@ -21,7 +21,7 @@ Error: Debug Failure. Invalid cast. The supplied value [object Object] did not p
 
 Caused by:
 ```
-const {constructor: AsyncFunction} = async () => {};
+const { constructor } = async () => {};
 ```
 
 ### To build
