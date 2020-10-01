@@ -24,7 +24,7 @@ Caused by:
 const {constructor: AsyncFunction} = async () => {};
 ```
 
-### To build run
+### To build
 ```
 npm run build
 ```
